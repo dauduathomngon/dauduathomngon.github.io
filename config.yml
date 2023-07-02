@@ -6,9 +6,11 @@ paginate: 5
 theme: PaperMod
 
 enableRobotsTXT: true
-buildDrafts: false
+buildDrafts: true
 buildFuture: false
 buildExpired: false
+enableEmoji: true
+enableInlineShortcodes: true
 
 disqusShortname: dauduathomngon
 
@@ -31,22 +33,20 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: false
+  ShowShareButtons: true
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
-  ShowWordCount: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: false
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
   hidemeta: false
-  hideSummary: true
+  hideSummary: false
   showtoc: true
   tocopen: true
-
-  enableEmoji: true
 
   assets:
     disableHLJS: true # to disable highlight.js
@@ -79,18 +79,18 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Hallo! Danke für Ihren Besuch in meinem Blog 🫡"
+    Content: Nếu bạn có thắc mắc thì đừng ngại mà hãy liên lạc mình thông qua các trang social phía dưới nha, mình sẽ cố gắng giải đáp thắc mắc cho bạn.
 
   socialIcons:
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/dauduathomngon"
     - name: linkedin
       url: ""
     - name: facebook
-      url: ""
+      url: "https://www.facebook.com/profile.php?id=100081741695746"
     - name: instagram
-      url: ""
+      url: "https://www.instagram.com/dauduathomngon/"
 
   # analytics:
   #   google:
@@ -120,32 +120,38 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+
 menu:
   main:
-    - identifier: about
-      name: Tui là ai ? 🤔
+    - name: Tui là ai ? 🤔
       url: /about
       weight: 30
-    - identifier: archives 
-      name: Kho lưu trữ 📂
+    - name: Kho lưu trữ 📂
       url: /archives/
       weight: 20
-    - idetifier: search 
-      name: Tìm kiếm 🔎
+    - name: Search 🔎
       url: /search
       weight: 20
-    - idetifier: book
-      name: Review sách tui đọc 📖
+    - name: Review sách tui đọc 📖
       url: /book
       weight: 20
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
+  goldmark:
+    renderer:
+      unsafe: true
   highlight:
-    # noClasses: false
+    # noClasses: true
     # anchorLineNos: true
     codeFences: true
     guessSyntax: true
     lineNos: true
     style: gruvbox
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary

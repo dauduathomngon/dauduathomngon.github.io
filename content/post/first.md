@@ -2,7 +2,23 @@
 title: "Test thử xem ổn không"
 math: true
 comments: true
+date: "2023-07-02"
 ---
+
+## Media testing
+
+{{< youtube 4LPmBiFkoBk >}}
+
+<center>
+<img src="https://i.pinimg.com/originals/9f/75/a5/9f75a57a63c19662473771d349da5af3.jpg">
+</center>
+
+## Latex testing
+- Inline math: $F(x) = \frac{1}{\sigma\sqrt{2\pi}} e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^{2}}$.
+- Display math:
+$$
+u(n) \Leftrightarrow \frac{1}{{(1 - e^{ - j\omega } )}} + \sum\limits_{k =  - \infty }^\infty  {\pi \delta (\omega  + 2\pi k)}
+$$
 
 ## Text Testing
 
@@ -15,13 +31,6 @@ In a justo sit amet orci consectetur eleifend. Proin nec est varius, tincidunt e
 Donec ornare mi vitae tristique cursus. Integer sed sagittis tortor, sed facilisis quam. Suspendisse potenti. Suspendisse tincidunt condimentum mi a sagittis. Sed feugiat accumsan dui, nec elementum augue gravida at. Sed at tincidunt velit. Nunc ipsum enim, iaculis ac rhoncus et, faucibus vitae felis. Aliquam erat volutpat. Nunc pretium pharetra tortor ac mattis.
 
 Aenean enim metus, pellentesque sed purus in, rhoncus dictum nisl. Vivamus ultrices lectus tortor, in semper augue faucibus eget. In ac lacinia nunc, et tempor sapien. Aliquam rhoncus purus ut facilisis sollicitudin. Aliquam hendrerit tempor sagittis. Phasellus eget leo tincidunt, dignissim dui eget, dapibus magna. Donec id pretium nibh. Praesent vestibulum luctus nisl sed elementum. Duis vel lorem arcu. Fusce placerat a turpis non luctus. Duis a sagittis leo, at eleifend lorem.
-
-## Latex testing
-- Inline math: $F(x) = \frac{1}{\sigma\sqrt{2\pi}} e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^{2}}$.
-- Display math:
-$$
-u(n) \Leftrightarrow \frac{1}{{(1 - e^{ - j\omega } )}} + \sum\limits_{k =  - \infty }^\infty  {\pi \delta (\omega  + 2\pi k)}
-$$
 
 ## Code testing
 
@@ -90,5 +99,3 @@ int main()
     return EXIT_SUCCESS;
 }
 ```
-
-### Media testing

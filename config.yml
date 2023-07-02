@@ -44,6 +44,8 @@ params:
   showtoc: true
   tocopen: true
 
+  enableEmoji: true
+
   assets:
     disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
@@ -144,4 +146,4 @@ markup:
     codeFences: true
     guessSyntax: true
     lineNos: true
-    style: monokai
+    style: gruvbox

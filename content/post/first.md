@@ -1,7 +1,7 @@
 ---
 title: "Test thử xem ổn không"
 math: true
-comment: true
+comments: true
 ---
 
 ## Text Testing

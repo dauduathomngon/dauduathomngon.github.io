@@ -13,6 +13,10 @@ date: "2023-07-02"
 <img src="https://i.pinimg.com/originals/9f/75/a5/9f75a57a63c19662473771d349da5af3.jpg">
 </center>
 
+A cat           |  Another cat
+:-------------------------:|:-------------------------:
+<img src="https://st3.depositphotos.com/34206678/36588/i/600/depositphotos_365880846-stock-photo-beautiful-cat-fashionable-breed-scottish.jpg"> | <img src="https://st3.depositphotos.com/34206678/36588/i/600/depositphotos_365880846-stock-photo-beautiful-cat-fashionable-breed-scottish.jpg">
+
 ## Latex testing
 - Inline math: $F(x) = \frac{1}{\sigma\sqrt{2\pi}} e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^{2}}$.
 - Display math:

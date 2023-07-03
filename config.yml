@@ -32,8 +32,10 @@ params:
   defaultTheme: light # dark, light, auto
   disableThemeToggle: false
 
+  ShowShareButtons: false
+  ShareButtons: ["facebook"]
+
   ShowReadingTime: true
-  ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
@@ -129,7 +131,7 @@ menu:
     - name: Kho lưu trữ 📂
       url: /archives/
       weight: 20
-    - name: Search 🔎
+    - name: Tìm kiếm 🔎
       url: /search
       weight: 20
     - name: Review sách tui đọc 📖

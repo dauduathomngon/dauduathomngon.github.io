@@ -25,17 +25,17 @@ params:
   # title: ExampleSite
   # description: "ExampleSite description"
   # keywords: [Blog, Portfolio, PaperMod]
-  author: Lê Nguyễn
+  # author: Lê Nguyễn
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
   # DateFormat: "January 2, 2006"
-  defaultTheme: light # dark, light, auto
+  defaultTheme: auto # dark, light, auto
   disableThemeToggle: false
 
   ShowShareButtons: false
   ShareButtons: ["facebook"]
 
-  ShowReadingTime: true
+  ShowReadingTime: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
@@ -125,7 +125,7 @@ params:
 
 menu:
   main:
-    - name: Tui là ai ? 🤔
+    - name: Mình là ai ? 🤔
       url: /about
       weight: 30
     - name: Kho lưu trữ 📂
@@ -134,7 +134,7 @@ menu:
     - name: Tìm kiếm 🔎
       url: /search
       weight: 20
-    - name: Review sách tui đọc 📖
+    - name: Góc tự học 📖
       url: /book
       weight: 20
 

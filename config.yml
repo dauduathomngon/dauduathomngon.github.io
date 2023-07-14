@@ -46,7 +46,7 @@ params:
   disableScrollToTop: false
   comments: false
   hidemeta: false
-  hideSummary: false
+  hideSummary: true
   showtoc: true
   tocopen: true
 
@@ -134,7 +134,7 @@ menu:
     - name: Tìm kiếm 🔎
       url: /search
       weight: 20
-    - name: Góc tự học 📖
+    - name: Góc học tập 📖
       url: /book
       weight: 20
 

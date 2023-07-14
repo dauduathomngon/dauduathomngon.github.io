@@ -3,6 +3,7 @@ title: "Test thử xem ổn không"
 math: true
 comments: true
 date: "2023-07-02"
+tag: ["test"]
 ---
 
 ## Media testing

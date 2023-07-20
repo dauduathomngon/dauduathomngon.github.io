@@ -46,6 +46,7 @@ g { color: Green }
 | [Diary of a Graphics Programmer](http://diaryofagraphicsprogrammer.blogspot.com/) | Computer Graphics |
 | [0fps](https://0fps.net/) | Computer Graphics, Game | |
 | [Blackflux.com](https://blackflux.wordpress.com/) | Computer Graphics | |
+| [That one game dev](https://thatonegamedev.com/) | Game | |
 
 ## Articles
 

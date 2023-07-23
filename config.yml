@@ -81,7 +81,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hallo! Danke für Ihren Besuch in meinem Blog 🫡"
+    Title: "Bonjour! Merci de visiter mon blog 🫡"
     Content: Nếu bạn có thắc mắc thì đừng ngại mà hãy liên lạc mình thông qua các trang social phía dưới nha, mình sẽ cố gắng giải đáp thắc mắc cho bạn.
 
   socialIcons:

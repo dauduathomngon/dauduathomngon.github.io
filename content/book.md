@@ -20,8 +20,6 @@ g { color: Green }
 | Name   | Author   | Cover   | Note   | Solution   | Difficulty | Review |
 | :---:  | :---:    | :---:   | :---:  | :---:      | :---:      | :---: |
 | Book of Proof | Richard Hammack | <a href="https://www.people.vcu.edu/~rhammack/BookOfProof/Main.pdf" target="_blank" rel="noopener noreferrer"> <img src="https://m.media-amazon.com/images/I/41LZ6-3KfkL._AC_UF1000,1000_QL80_.jpg" width="250"> </a> | None | None | <g> Easy </g> | |
-| Principles of Mathematical Analysis | Walter Rudin | <a href="https://web.math.ucsb.edu/~agboola/teaching/2021/winter/122A/rudin.pdf" target="_blank" rel="noopener noreferrer"> <img src="https://m.media-amazon.com/images/I/71B5AXdcuGL._AC_UF1000,1000_QL80_.jpg" width="250"> |  | | <r> Nightmare </r> | |
-| The Way of Analysis | Robert S. Strichartz | <a href="https://www.amazon.com/Analysis-Revised-Jones-Bartlett-Mathematics/dp/0763714976" target="_blank" rel="noopener noreferrer"> <img src="https://m.media-amazon.com/images/I/512-b8lfndL._SL1000_.jpg" width="250"> | None | None | <bl> Medium </bl> | |
 | Introduction to Probability | Jessica Hwang | <a href="https://www.amazon.com/Introduction-Probability-Chapman-Statistical-Science/dp/1138369918" target="_blank" rel="noopener noreferrer"> <img src="https://m.media-amazon.com/images/I/61H+mPDjKsL._SL1400_.jpg" width="250"> | | | <bl> Medium </l> | |
 | Statisitical Inference | Casella & Berger | <a href="https://mybiostats.files.wordpress.com/2015/03/casella-berger.pdf" target="_blank" rel="noopener noreferrer"> <img src="https://m.media-amazon.com/images/I/41XPrJNhoIL.jpg" width="250"> | | | <o> Hard </o> | |
 
@@ -47,6 +45,8 @@ g { color: Green }
 | [0fps](https://0fps.net/) | Computer Graphics, Game | |
 | [Blackflux.com](https://blackflux.wordpress.com/) | Computer Graphics | |
 | [That one game dev](https://thatonegamedev.com/) | Game | |
+| [The book of shaders](https://thebookofshaders.com/) | Computer Graphics | |
+| [Let's Make a Voxel Game Engine](https://sites.google.com/site/letsmakeavoxelengine/home) | Game | |
 
 ## Articles
 

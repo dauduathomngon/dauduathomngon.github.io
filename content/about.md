@@ -1,5 +1,5 @@
 ---
-title: "À propos de moi 🤔"
+title: "About me 🤔"
 draft: true
 comments: false
 ---

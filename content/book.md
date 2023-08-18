@@ -41,6 +41,24 @@ v { color: Violet }
 | [Full Stack Deep Learning Courses](https://fullstackdeeplearning.com/course/) | DL |
 | [Really big math book](https://www.cis.upenn.edu/~jean/math-deep.pdf) | Math |    
 | [Cool site](https://abstrusegoose.com/353) | Meme |
-| [CV Templates](https://www.latextemplates.com/cat/curricula-vitae) | Career |
-| [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) | CS |
+| [CV Templates](https://www.latextemplates.com/cat/curricula-vitae) | Latex CV |
 | [PhD Workflow](https://www.reddit.com/r/Onyx_Boox/comments/12iug2o/tutorial_my_researchphd_workflow_with_a_boox/?utm_source=share&utm_medium=web2x&context=3) | Career |
+| [Stanford ML Course (CS229)](https://cs229.stanford.edu/) | ML |
+| [Stanford DL Course (CS)](https://cs230.stanford.edu/) | DL |
+| [Stanford NLP Course (CS224N)](https://web.stanford.edu/class/cs224n/) | DL, NLP |
+| [Stanford CV Course (CS231N)](http://cs231n.stanford.edu/) | DL, CV |
+| [Microsoft Data Science Course](https://www.microsoft.com/en-us/research/publication/foundations-of-data-science-2/) | DS |
+| [Practical RL Course](https://github.com/yandexdataschool/Practical_RL) | RL |
+| [Tübingen Statistical ML Course](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC) | ML |
+| [Geometric Deep Learning](https://geometricdeeplearning.com/) | DL |
+| [MIT 18.S096, Topics in DS](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-of-data-science-fall-2015/) | DS |
+| [MIT 6.034, AI](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/) | AI |
+| [CS 6789 Cornell RL Course](https://wensun.github.io/CS6789_fall_2021.html) | RL |
+| [CS 4780 Cornell ML Course](https://www.cs.cornell.edu/courses/cs4780/2023fa/#Header) | ML |
+| [Caltech ML Course](https://home.work.caltech.edu/telecourse.html) | ML |
+| [Understanding Deep Learning Book](https://udlbook.github.io/udlbook/) | DL |
+| [Free Math Resources](https://realnotcomplex.com/) | Math |
+| [Information Geometry](https://math.ucr.edu/home/baez/information/) | ML |
+| [Algorithms of RL Book](https://sites.ualberta.ca/~szepesva/rlbook.html) | RL |
+| [Statistical Paradox](https://stats.stackexchange.com/questions/23779/most-interesting-statistical-paradoxes) | Stat |
+| [Stanford Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) | ML |

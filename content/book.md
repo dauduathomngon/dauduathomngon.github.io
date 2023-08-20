@@ -22,7 +22,6 @@ v { color: Violet }
 | :---:  | :---:    | :---:   | :---:  | :---:      | :---:      | :---: |
 | Book of Proof | Richard Hammack | <a href="https://www.people.vcu.edu/~rhammack/BookOfProof/Main.pdf"> <img src="https://m.media-amazon.com/images/I/41LZ6-3KfkL._AC_UF1000,1000_QL80_.jpg" width="250"> </a> | None | None | <g> Easy </g> | |
 | Calculus | Michael Spivak | <a href="https://theswissbay.ch/pdf/Gentoomen%20Library/Maths/Calculus/Michael%20Spivak%20-%20Calculus.pdf"> <img src="https://m.media-amazon.com/images/I/31ESrmEz0-L.jpg" width="250"> </a> | None | None | <bl> Medium </bl> |
-| Matrix Analysis and Applied Linear Algebra | Carl D. Meyer | <a href="https://vik.wiki/images/2/21/FmLinalg_jegyzet_2000_Meyer.pdf"> <img src="https://m.media-amazon.com/images/I/51jiIcOjs2L.jpg" width="250"> </a> | None | None | <bl> Medium </bl> |
 | Statistical Inference | Geogre Casella | <a href="https://mybiostats.files.wordpress.com/2015/03/casella-berger.pdf"> <img src="https://m.media-amazon.com/images/I/41XPrJNhoIL.jpg" width="250"> </a> | | | <o> Hard </o> |
 
 > Phần difficulty do mình tự đánh giá nên có thể sẽ không đúng với mọi người á. Còn ở chỗ Note hay Solution mà mình để None thì có nghĩa là mình không gõ Latex nên không có file để up 🥲.

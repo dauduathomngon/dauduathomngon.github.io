@@ -1,6 +1,6 @@
-baseURL: "https://dauduathomngon.github.io/home/"
+baseURL: "https://dauduathomngon.github.io/"
 
-title: Blog của Đậu đũa
+title: Đậu Đậu's Blog
 
 paginate: 5
 theme: PaperMod
@@ -22,14 +22,12 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  # title: ExampleSite
-  # description: "ExampleSite description"
   # keywords: [Blog, Portfolio, PaperMod]
-  # author: Lê Nguyễn
+  author: Đậu Đậu
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
   # DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light, auto
+  defaultTheme: light # dark, light, auto
   disableThemeToggle: false
 
   ShowShareButtons: false
@@ -131,11 +129,14 @@ menu:
     - name: Kho lưu trữ 📂
       url: /archives/
       weight: 20
-    - name: Tìm kiếm 🔎
-      url: /search
-      weight: 20
+    # - name: Tìm kiếm 🔎
+    #   url: /search
+    #   weight: 20
     - name: Góc học tập 📖
       url: /book
+      weight: 20
+    - name: Logger 🍔
+      url: /log
       weight: 20
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma

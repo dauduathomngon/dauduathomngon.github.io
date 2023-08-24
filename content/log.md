@@ -25,6 +25,8 @@ v { color: Violet }
 
 > À trước đó mình đã bắt đầu đọc sách (toán) bằng tiếng anh từ năm 1 rồi và mình nghĩ mình cần hơn 1 năm, đến tận giữa năm 2 (sau khi tết 2023), mình mới gọi là thật sự hiểu những gì nó viết. Trong quá trình mình đọc sách, mình cũng nhận ra là mình thích đọc sách và dễ tiếp thu hơn là xem video nên mình từ bỏ (tạm thời) việc xem các khoá học trên youtube luôn 😎.
 
+### Statistical Inference (Casella)
+
 ### Analysis I (Escher)
 
 - Mình bắt đầu bằng việc mình đâm đầu thẳng vào cuốn <r> Analysis I (Amann & Escher) </r>, và đây là sai lầm đầu tiên của mình. 

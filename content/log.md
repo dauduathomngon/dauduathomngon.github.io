@@ -1,6 +1,6 @@
 ---
-title: "Log Book"
-draft: false
+title: "Log Book 💀"
+draft: true
 showtoc: true
 comments: false
 math: true
@@ -27,9 +27,17 @@ v { color: Violet }
 
 ### Statistical Inference (Casella)
 
+- Mình bắt đầu bằng học cuốn này, cuốn này khó nhưng mà tại sao mình lại thấy ổn trong giai đoạn này. Đơn giản là mình không cố gắng chứng minh và làm bài tập mà chỉ đọc và note cho qua loa.
+
+> Cuốn này cũng là cuốn đầu tiên dẫn mình đến con đường đọc sách toán, cũng hay lắm ó (vẫn mãi giữ một vị trí trong tim mình nhé 😎).
+
+- Nhưng lúc này, mình lại tự đâm đầu vào khó khăn bằng cách bỏ học trong lớp, tập trung học trong sách thành ra điểm số mình thấp tệ 😥.
+
+> Thế nên nếu các bạn có tự học ngoài thì vẫn nhớ cân bằng với việc học trên lớp nha, đừng tự huỷ giống mình.
+
 ### Analysis I (Escher)
 
-- Mình bắt đầu bằng việc mình đâm đầu thẳng vào cuốn <r> Analysis I (Amann & Escher) </r>, và đây là sai lầm đầu tiên của mình. 
+- Tiếp theo mình đâm đầu thẳng vào cuốn <r> Analysis I (Amann & Escher) </r>, và đây là sai lầm đầu tiên của mình. 
 
 > Tại sao mình lại chọn học Real Analysis trước, bởi vì mình tìm hiểu đâu đó thì đây là môn tiên quyết và là nền tảng của các môn khó hơn về sau này.
 
@@ -59,17 +67,27 @@ Nếu một không gian vector $V$ được sinh bởi một tập hợp hữu h
 
 ![Latex LA](../images/log_book/Screenshot_2023-08-20_093842.png)
 
-- Template latex này được mình copy (shamelessly) từ [đây](https://github.com/gillescastel/lecture-notes) và có sửa lại một chút. Mình học Latex bằng cách viết nhiều rồi xong quen cách viết nên tìm hiểu khá dễ, ngoài để tìm các lệnh cho các ký hiệu là thì mình dùng web [Detexify](https://detexify.kirelabs.org/classify.html), mình chỉ cần vẽ ký hiệu vào thì nó tự ra lệnh cho ký hiệu đó.
+- Template latex này được mình copy (shamelessly) từ [đây](https://github.com/gillescastel/lecture-notes) và có sửa lại một chút. Mình học Latex bằng cách viết nhiều rồi xong quen cách viết nên tìm hiểu khá dễ, ngoài ra để tìm các lệnh cho các ký hiệu là thì mình dùng web [Detexify](https://detexify.kirelabs.org/classify.html), mình chỉ cần vẽ ký hiệu vào thì nó tự ra lệnh cho ký hiệu đó.
 
 ### Baby Rudin
 
-- Tên gốc của cuốn này là *Principles of Mathematical Analysis* (Rudin) và *papa rudin* là cuốn *Real and Complex Analysis* của cùng tác giả.
+- Tên gốc của cuốn này là <r> Principles of Mathematical Analysis </r> của thầy *Walter Rudin* và **Papa Rudin** là cuốn <r> Real and Complex Analysis </r> của cùng tác giả.
 
-- Cuốn này được mọi người mệnh danh là *Bible* (kinh thánh) của Real Analysis. Nhưng cũng có người chửi (mình là một trong số đó) bởi vì mình không nghĩ nó dành cho self-study được
+- Cuốn này được mọi người mệnh danh là *Bible* (kinh thánh) của Real Analysis. Nhưng cũng có người chửi (mình là một trong số đó) bởi vì mình không nghĩ nó dành cho self-study được.
 
 - Thứ nhất nó quá *dense* (cuốn sách ngắn nhưng mà quá nhiều nội dung, thế nên các nội dung thường được explain khá ít hoặc là không luôn, ngoài ra nó ít example nữa, example là thứ khá quan trọng khi học toán á) và *khó vcl* (proof của tác giả rất là gọn, nó gọn đến mức mà để hiểu cái proof mình phải tự tìm hiểu nhiều và điền vào "gap" của proof đó, nếu bạn có thầy cô dạy thì cách này hay, nhưng tự học thì không).
 
-- Mình đã drop cuốn này từ khi đọc 10 trang đầu 🫠 và chắc chắn sẽ không bao giờ nhìn lại.
+- Mình đã drop cuốn này từ khi đọc  trang đầu 🫠 và chắc chắn sẽ không bao giờ nhìn lại. Để mình kể các bạn nghe, ở trang 2, Rudin chứng minh tập hợp $A$ gồm các số hữu tỉ dương $p$ sao cho $p^2 < 2$ *không có phần tử lớn nhất*, đầu tiên là đặt:
+$$
+q = p - \dfrac{p^2-2}{p+2} = \dfrac{2p+2}{p+2}
+$$
+và sau đó thì mình cũng không hiểu tại sao lại đặt được $q$ như này, và từ các trang về sau cũng không có bất kì sự giải thích tại sao *nên* đặt $q$ như vậy (sau khi tìm hiểu thì có khá nhiều cách để suy ra được số $q$ này, có người cũng bảo là thầy thích thầy cho vào thôi 🥶).
+
+- Tiếp theo, bằng việc đã chứng minh hai tập hợp $A$ gồm các số hữu tỉ $p$ dương $p$ sao cho $p^2 < 2$ không có phần tử lớn nhất và $B$ gồm các số hữu tỉ $p$ dương sao cho $p^2 > 2$ *không có phần tử nhỏ nhất*, Rudin kết luận ngay *tập hợp số hữu tỉ có "gap"* mà không thêm bất kì lời giải thích nào, mình cũng bị đần luôn khúc đó 😣. Thật ra để rõ hơn về việc "gap" này, các bạn nên tìm hiểu về *Dedekind Cut* (thứ này sẽ xuất hiện ở phần sau của sách, but why 😭), mà lúc đó mới học mình có biết cái này là gì đâu, nên yeah, stuck luôn và cảm thấy mình đần vl 🥲.
+
+- Ngoài ra, ở định lý $1.20$: *"Nếu $x \in \mathbb{R}, y \in \mathbb{R}$ thì tồn tại một số $p \in \mathbb{Q}$ sao cho $x < p < y$"* và để hiểu rõ được proof của Rudin đoạn này, các bạn cần phải biết đến *Well-Ordering Principle* (kịch bản vẫn như cũ, trong sách không hề nhắc đến thứ này) để hiểu (nó nằm ở đoạn "kể từ đây, tồn tại một số $m$ sao cho $m-1 < nx < m$").
+
+> Đó chỉ là những trải nghiệm chủ quan của mình, các bạn tham khảo cho dui thôi nghen, chứ đừng chửi sách giống mình quá 😥. Mình nghĩ nên đọc cuốn này khi các bạn *đã học* Real Analysis rồi và muốn thử sức mình với mức độ khó hơn.
 
 > Cuốn này mình được 1 anh bên cử nhân tài năng toán trường mình gợi ý (em không đủ khả năng, xin lỗi anh 🥲). Ngoài ra có một course trên youtube follow theo cuốn này rất hay là [Francis Su's Lectures](https://www.youtube.com/watch?v=sqEyWLGvvdw&list=PL0E754696F72137EC).
 
@@ -78,6 +96,8 @@ Nếu một không gian vector $V$ được sinh bởi một tập hợp hữu h
 - Cuốn này chắc chắn là quyết định đúng nhất của mình, do mình cảm thấy mình quá yếu trong việc chứng minh nên mình chọn cuốn này để improve việc chứng minh của mình (chứng minh rất quan trọng). Và mình đã đúng, nó giúp ích mình rất nhiều, mình nghĩ đây nên là cuốn nền tảng để mọi người học trước khi bắt đầu vào học toán thật sự.
 
 - Nếu được học lại từ đầu, mình sẽ chọn cuốn này học và sẽ không sợ (hoặc bị đấm) bởi mấy cuốn khác nữa. Ngoài ra cuốn này free á, link [đây](https://www.people.vcu.edu/~rhammack/BookOfProof/BookOfProof.pdf).
+
+> À mà chứng minh cũng có *công thức* để làm theo đấy nhé và cũng cần kinh nghiệm, chứng minh nhiều, như việc học code thôi. Nên việc học cách chứng minh trước là điều cực quan trọng (theo ý kiến của mình).
 
 ### Mathematical Analysis I (Zorich)
 
@@ -109,7 +129,7 @@ Nếu một không gian vector $V$ được sinh bởi một tập hợp hữu h
 
 ## Tháng 8-2023
 
-- Yeah, cảm ơn các bạn rất nhiều vì đã đọc đến đây 😊. Sau khi tốn mất 7 tháng (hoặc hơn) để tìm hiểu về cách tự học và đọc sách thì mình có thể tự nói mình đã (có thể) tự học đúng đắn được rồi.
+- Yeah, cảm ơn các bạn rất nhiều vì đã đọc đến đây 😊. Sau khi tốn mất 7 tháng (hoặc hơn) để tìm hiểu về cách tự học và đọc sách thì mình có thể tự nói mình đã tự học đúng đắn (một chút) được rồi.
 
 > Mình cũng may mắn vì mình có thể thoát khỏi cái hố tự học quá sức đó sớm, 7 tháng không phải ngắn mà cũng không dài hehe 😎.
 
@@ -123,9 +143,11 @@ Nếu một không gian vector $V$ được sinh bởi một tập hợp hữu h
 - Và hình mình note (không đẹp lắm nhưng vẫn khoe):
 ![Spivak Note](../images/log_book/spivak_note.jpg)
 
-- Mình nghĩ việc mình chọn quay lại học Calculus là đúng đắn, vừa sức mình nên quá trình học dễ thở và thích hơn rất nhiều (nếu bạn không biết thì Real Analysis được xem như là version lý thuyết của Calculus vậy á).
+- Mình nghĩ việc mình chọn quay lại học Calculus là đúng đắn, vừa sức mình nên quá trình học dễ thở và thích hơn rất nhiều (nếu bạn không biết thì Real Analysis được xem như là version lý thuyết của Calculus vậy á). 
 
-- Cuốn mà mình chọn học là <g> Calculus (Spivak) </g> và cuốn này siêu (siêu) hay, các bạn nên đọc thử và cuốn này cũng không dễ đâu nha, phần bài tập cũng rất hay nữa.
+- Cuốn mà mình chọn học là <g> Calculus (Spivak) </g> và cuốn này siêu (siêu) hay, các bạn nên đọc thử và cuốn này cũng không dễ đâu nha, phần bài tập cũng rất hay nữa. Ngoài ra thì cuốn này *không dễ* đâu nha, nó được xem như là *baby real analysis*.
+
+> Ở trên mình có nói nhiều ông tác giả thích giấu những thứ quan trọng trong phần bài tập đúng không ? Đây là một ví dụ đây, định nghĩa hàm chẵn lẻ nằm trong phần bài tập, việc bạn biết $f$ liên tục tại $a$ thì $|f|$ liên tục tại $a$ cũng nằm trong bài tập, vâng vâng và mây mây. Nên nếu bỏ bài tập thì sẽ hổng rất nhiều kiến thức luôn.
 
 ### Hands on Machine Learning (07-08-2023)
 
@@ -134,3 +156,5 @@ Nếu một không gian vector $V$ được sinh bởi một tập hợp hữu h
 - Ngoài ra trong quá trình học thì mình cũng có tìm hiểu về *Obsidian* (mình chỉ dùng mỗi note nhưng mà nó còn hơn thế, xem youtube thấy nó khá xịn, nhưng thôi, mình vẫn chưa cần đến thế)
 
 ![Hands-on Note](../images/log_book/hands_on_note.png)
+
+### Introduction to Algorithms (CLRS) (24-08-2023)

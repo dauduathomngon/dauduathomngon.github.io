@@ -5,6 +5,7 @@ showtoc: true
 comments: false
 math: true
 categories: ["study"]
+tags: ["self-study", "life"]
 ---
 
 <style>
@@ -156,5 +157,3 @@ và sau đó thì mình cũng không hiểu tại sao lại đặt được $q$ 
 - Ngoài ra trong quá trình học thì mình cũng có tìm hiểu về *Obsidian* (mình chỉ dùng mỗi note nhưng mà nó còn hơn thế, xem youtube thấy nó khá xịn, nhưng thôi, mình vẫn chưa cần đến thế)
 
 ![Hands-on Note](../images/log_book/hands_on_note.png)
-
-### Introduction to Algorithms (CLRS) (24-08-2023)

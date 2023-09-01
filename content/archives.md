@@ -1,6 +1,6 @@
 ---
 title: "Kho lưu trữ"
 layout: "archives"
-url: "/archives/"
+url: "/archives"
 summary: archives
 ---

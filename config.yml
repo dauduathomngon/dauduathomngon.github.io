@@ -33,7 +33,7 @@ params:
   ShowShareButtons: false
   ShareButtons: ["facebook"]
 
-  ShowReadingTime: false
+  ShowReadingTime: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
@@ -44,7 +44,7 @@ params:
   disableScrollToTop: false
   comments: false
   hidemeta: false
-  hideSummary: true
+  hideSummary: false
   showtoc: true
   tocopen: true
 
@@ -61,10 +61,6 @@ params:
     text: "Góc nhỏ của Đậu Đũa 😊"
     # icon: /apple-touch-icon.png
     iconHeight: 35
-
-  cover:
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: false # hide on single page
 
   # profile-mode
   # profileMode:
@@ -130,12 +126,12 @@ menu:
     - name: Mình là ai ? 🤔
       url: /about
       weight: 30
-    - name: Kho lưu trữ 📂
-      url: /archives/
-      weight: 20
-    # - name: Tìm kiếm 🔎
-    #   url: /search
+    # - name: Kho lưu trữ 📂
+    #   url: /archives
     #   weight: 20
+    - name: Tìm kiếm 🔎
+      url: /search
+      weight: 20
     - name: Góc học tập 📖
       url: /book
       weight: 20

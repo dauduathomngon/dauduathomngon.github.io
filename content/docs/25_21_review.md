@@ -1,5 +1,5 @@
 ---
-title: "Review phim: Twenty Five Twenty One"
+title: "Twenty Five Twenty One"
 tags: ["film"]
 categories: ["life"]
 comment: true

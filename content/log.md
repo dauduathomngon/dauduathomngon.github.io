@@ -36,6 +36,8 @@ v { color: Violet }
 
 > Thế nên nếu các bạn có tự học ngoài thì vẫn nhớ cân bằng với việc học trên lớp nha, đừng tự huỷ giống mình.
 
+> Giờ đọc lại cuốn này khó vãi 💀. Mình nghĩ là nếu các bạn lần đầu học xác suất thống kê thì không nên học nó đâu.
+
 ### Analysis I (Escher)
 
 - Tiếp theo mình đâm đầu thẳng vào cuốn <r> Analysis I (Amann & Escher) </r>, và đây là sai lầm đầu tiên của mình. 

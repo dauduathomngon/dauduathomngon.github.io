@@ -1,5 +1,5 @@
 ---
-title: "Review phim: Reply 1988"
+title: "Reply 1988"
 tags: ["film"]
 categories: ["life"]
 comment: true
